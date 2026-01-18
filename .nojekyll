@@ -1,0 +1,1 @@
+.nojekyll marker disables Jekyll on GitHub Pages so Docsify can serve files like `_sidebar.md`.
