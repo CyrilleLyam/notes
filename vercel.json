@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "notes",
+  "outputDirectory": "dist",
+  "cleanUrls": false
+}

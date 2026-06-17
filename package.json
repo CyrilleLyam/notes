@@ -1,0 +1,13 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docsify serve .",
+    "build": "mkdir -p dist && cp index.html _sidebar.md *.md .nojekyll dist/",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4",
+    "vercel": "^32.4.1"
+  }
+}
